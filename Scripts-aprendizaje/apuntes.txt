@@ -1,0 +1,7 @@
+para variables con %10 (De dos valores) debemos utilizar ${10}
+
+$# -> indican el número de argumentos
+$* -> lista de argumentos -> IFS='1'
+
+
+$? -> Regresa un código de estado que indica como ha terminado el programa, si es 0 está bien si es distinto de 0 indica que algo ha fallado 
